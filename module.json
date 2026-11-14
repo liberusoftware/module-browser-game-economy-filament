@@ -3,7 +3,7 @@
   "name": "browser-game-economy-filament",
   "display_name": "Browser Game Economy Filament",
   "description": "Filament 5 economy catalog resources.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\EconomyFilament\\EconomyFilamentServiceProvider",
   "requires": {
